@@ -5,9 +5,9 @@ LinkPreview
 
 ## How to
 
-To get a Git project into your build:
+To get a Get project into your project
 
-Add the dependency
+Add this dependency
 
     dependencies {
 	        implementation 'com.github.Vishal-beep136:LinkPreview:1.0'
