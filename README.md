@@ -25,19 +25,3 @@ LinkPreview
                     }
                 });
 
-
-
-
-
-
-
-## How to
-
-To get a Get project into your project
-
-Add this dependency
-
-    dependencies {
-	        implementation 'com.github.Vishal-beep136:LinkPreview:1.0'
-	 }
-
