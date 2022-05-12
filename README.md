@@ -3,6 +3,29 @@ LinkPreview
 
 ![image](https://user-images.githubusercontent.com/82146140/141681373-f083e3bf-56f5-443c-ab97-3c2f62f3cd10.png)
 
+*******************
+## Setup
+
+To get a Git project into your build:
+
+Step 1. Add the JitPack repository to your build file
+
+```
+allprojects {
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
+	}
+}
+```
+
+Step 2. Add the dependency
+
+```
+implementation 'com.github.Vishal-beep136:LinkPreview:1.0'
+```
+
+
 
 
 *******************
@@ -24,4 +47,18 @@ LinkPreview
                         Log.d("Vishal", "onResultFailed: Error While" + e.getMessage());
                     }
                 });
+
+
+
+## Output
+
+<img src="https://user-images.githubusercontent.com/82146140/141681373-f083e3bf-56f5-443c-ab97-3c2f62f3cd10.png" width="400px" height="700px">
+
+
+
+
+
+
+
+
 
