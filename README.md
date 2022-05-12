@@ -1,5 +1,6 @@
-LinkPreview
-### This Library will give you details about a URL for example - Title , Image , Description
+## LinkPreview [![](https://jitpack.io/v/Vishal-beep136/LinkPreview.svg)](https://jitpack.io/#Vishal-beep136/LinkPreview)
+
+This Library will give you details about a URL for example - Title , Image , Description
 
 ![image](https://user-images.githubusercontent.com/82146140/141681373-f083e3bf-56f5-443c-ab97-3c2f62f3cd10.png)
 
@@ -22,7 +23,7 @@ allprojects {
 Step 2. Add the dependency
 
 ```
-implementation 'com.github.Vishal-beep136:LinkPreview:1.0'
+implementation 'com.github.Vishal-beep136:LinkPreview:1.0.0'
 ```
 
 
@@ -53,15 +54,4 @@ implementation 'com.github.Vishal-beep136:LinkPreview:1.0'
 ## Output
 
 <img src="https://user-images.githubusercontent.com/82146140/141681373-f083e3bf-56f5-443c-ab97-3c2f62f3cd10.png" width="400px" height="700px">
-
-<!-- 2022-05-12 10:58:21.169 7220-7220/com.vishal.linkfetcher D/RESULT: onResultSuccess: Site ImageUrl : https://i.ytimg.com/vi/kJQP7kiw5Fk/maxresdefault.jpg
-2022-05-12 10:58:21.169 7220-7220/com.vishal.linkfetcher D/RESULT: onResultSuccess: Site Title : Luis Fonsi - Despacito ft. Daddy Yankee
-2022-05-12 10:58:21.169 7220-7220/com.vishal.linkfetcher D/RESULT: onResultSuccess: Site Description : “Despacito” disponible ya en todas las plataformas digitales: https://UMLE.lnk.to/DOoUzFp “Imposible” disponible ya en todas las plataformas digitales: https...
-2022-05-12 10:58:21.169 7220-7220/com.vishal.linkfetcher D/RESULT: onResultSuccess: Site Url : https://www.youtube.com/watch?v=kJQP7kiw5Fk -->
-
-
-
-
-
-
 
